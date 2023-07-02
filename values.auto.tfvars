@@ -1,0 +1,15 @@
+vm-name          = "machine"
+vsphere_user     = "administrator@vsphere.local"
+vsphere_password = "J@y2dworld2916"
+vsphere_server   = "joy-vcsa.joysontech.com"
+dns_server_list  = ["10.0.1.100", "1.1.1.1"]
+domain           = "joysontech.com"
+vmgateway        = "10.0.1.1"
+vm-ram           = 4096
+vm-cpu           = 2
+windows_template = "Win2022-Template-Base-Thin"
+ipv4_addresses   = ["10.0.1.28"]
+ipv4_netmasks    = [24]
+local_adminpass = "J@y2dworld2916"
+domain_admin_password = "J@y2dworld2916"
+domain_admin_user = "Administrator"
