@@ -9,7 +9,7 @@ variable "windows_template" {
 }
 
 variable "computer_name" {
-    default = "JOY-SVR"
+    default = "machine
 }
 
 variable "vm-count" {

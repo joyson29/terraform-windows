@@ -1,4 +1,4 @@
-vm-name          = "JOY-SVR"
+vm-name          = "machine"
 vsphere_user     = "administrator@vsphere.local"
 vsphere_password = "J@y2dworld2916"
 vsphere_server   = "joy-vcsa.joysontech.com"
